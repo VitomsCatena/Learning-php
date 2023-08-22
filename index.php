@@ -13,7 +13,10 @@
   </head>
   <body>
     <?php
-echo my food;
+echo my first PHP website;
+$my_name = I am victor;
+$github_username = Vitomscatena;
+echo $my_name . $github_username;
 ?>
   </body>
 </html>
